@@ -958,12 +958,17 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
     height: 100vh;
 }
 
-.block-tracklist .block-content img{
-     display: none;
-}
+/* .block-tracklist .block-content img{
+     /* display: block; */
+} */
 
 .block-title:before{content:none;}
 .news-list > li, .news-list li:last-child{margin-bottom: 5rem;}
     
 }
 /*End media queries*/
+.trackCover {
+ background: red
+}
+
+
