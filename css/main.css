@@ -512,6 +512,7 @@ Created by : mutationthemes
 }
  .block-tracklist .playlist{
      border:1px solid rgba(255,255,255,.1);
+     background: #000
 }
  .block-tracklist .playlist li{
      padding-bottom: 1rem;
