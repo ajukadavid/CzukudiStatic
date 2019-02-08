@@ -924,7 +924,11 @@ section.about .block-content.text-md-right, .block-album {margin-bottom: 1.875em
 
     .card-gallery.image-gallery > a > img{margin-bottom: 1rem;}
 
-
+    .mainTitle {
+        color: #d7bdd8;
+        font-size: 4em;
+        display: block;
+     }
 }
 @media only screen and (max-width: 479px) {
     input,

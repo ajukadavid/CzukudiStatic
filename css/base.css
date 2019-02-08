@@ -355,6 +355,8 @@ section,
 }
 .uppercase {
     text-transform: uppercase;
+    font-family: 'PT Mono', monospace;
+   
 }
 .text-white {
     color: #ffffff;
@@ -643,4 +645,5 @@ div[class*="col-"].gap-double-sm, .gap-double-sm {
 .bg-red {
     background: #ff5252;
 }
+
 /*End misc */
